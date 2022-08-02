@@ -10,3 +10,5 @@ This algorithm simulates the movement of groups of animals that interact with ea
 ## References :
 - Nature of code book : https://natureofcode.com/
 - Wikipedia : https://en.wikipedia.org/wiki/Flocking_(behavior)
+## Autor
+* Jorge Rando Hernández :part_alternation_mark: [@jorgerando](https://github.com/jorgerando)
