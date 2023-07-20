@@ -14,7 +14,7 @@ This algorithm simulates the movement of groups of animals that interact with ea
 - Wikipedia : https://en.wikipedia.org/wiki/Flocking_(behavior)
 
 ## Explanation video (Spanish) :
-- The Flocking :moyai: : https://www.youtube.com/watch?v=yPIbHKV8884&t=768s
+- The Flocking :moyai: : https://www.youtube.com/watch?v=fEi2pzMqx9s
 
 ## Autor
 * Jorge Rando Hernández :part_alternation_mark: [@jorgerando](https://github.com/jorgerando)
